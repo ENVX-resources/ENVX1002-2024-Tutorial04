@@ -2,7 +2,7 @@
 
 ## ENVX1002
 
-### Tutorial 01
+### Tutorial 04
 
 Semester 1, 2024
 
@@ -25,5 +25,5 @@ _To view the file, click on the link :link: on the **right side of the page** un
 
 </div>
 
-[HTML]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a/
-[PDF]: https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a/Lecture-01a.pdf
+[HTML]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04/
+[PDF]: https://envx-resources.github.io/ENVX1002-2024-Tutorial04/Lecture-01a.pdf
