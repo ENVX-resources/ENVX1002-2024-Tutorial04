@@ -17,6 +17,16 @@ output:
     toc: yes
 ---
 
+::: {.callout-tip}
+# Learning outcomes
+
+At the end of this computer practical, students should be able to: 
+
+- calculate tail, interval and inverse probabilities associated with the Normal distribution 
+- calculate probabilities associated sampling distribution of the sample mean by using simulation in R and using R commands.
+- Understand how simulation links to the central limit theorem.
+:::
+
 - [ENVX1002_Data4.xlsx](data/ENVX1002_Data4.xlsx)
 - Alternatively download from Canvas
 
