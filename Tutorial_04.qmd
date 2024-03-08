@@ -46,12 +46,12 @@ We are going to do some calculations on the total annual rainfall. To do this we
 - standard deviation
 - histogram
 
-```{r}
+```{r, message=FALSE}
 library(readxl)
 rain <- read_excel("data/ENVX1002_Topic4.xlsx", sheet = "Sydney_rain")
 ```
 
-```{r}
+```{r, message=FALSE}
 ## Calculate total annual rain using dplyr
 library(dplyr)
 annual_rain <- rain %>%
