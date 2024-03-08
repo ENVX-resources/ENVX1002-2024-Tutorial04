@@ -27,7 +27,7 @@ At the end of this computer practical, students should be able to:
 - Understand how simulation links to the central limit theorem.
 :::
 
-- [ENVX1002_Data4.xlsx](data/ENVX1002_Data4.xlsx)
+- [ENVX1002_Data4.xlsx](data/ENVX1002_Topic4.xlsx)
 - Alternatively download from Canvas
 
 # Normal distribution
